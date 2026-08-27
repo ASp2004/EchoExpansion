@@ -12,6 +12,8 @@ Map.pack/Map/*.szs
 !Map.pack/Map/Fld_OctGhostBall_OctMsn.szs
 !Map.pack/Map/Fld_OctForestBattle_OctMsn.szs
 !Map.pack/Map/Fld_OctBoxRota_OctMsn.szs
+!Map.pack/Map/Fld_OctDendenSnipe_OctMsn.szs
+!Map.pack/Map/Fld_OctSpaceBall_OctMsn.szs
 
 Message
 !Message/CommonMsg_EUen.release.szs
@@ -23,6 +25,7 @@ MessageEdit/Unpack
 
 Mush.release.pack/Mush
 !Mush.release.pack/Mush/Octa2DMapInfo.byml
+!Mush.release.pack/Mush/Octa2DMapLinkInfo.byml
 
 Param.pack
 
