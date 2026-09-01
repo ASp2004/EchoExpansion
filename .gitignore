@@ -2,6 +2,7 @@ Font
 
 LayoutWorking/*/original
 LayoutWorking/*/extracted
+LayoutWorking/Oct_WeaponSelect
 
 Map.pack/Map/*.szs
 
@@ -22,11 +23,15 @@ MessageEdit/Unpack
 !MessageEdit/Unpack/Octa_Fld_OctVBallJumpmat_OctMsn.msbt
 !MessageEdit/Unpack/Octa_StageInfo.msbt
 !MessageEdit/Unpack/Octa_Fld_OctBoxRota_OctMsn.msbt
+!MessageEdit/Unpack/Octa_LineName.msbt
 
 Mush.release.pack/Mush
 !Mush.release.pack/Mush/Octa2DMapInfo.byml
 !Mush.release.pack/Mush/Octa2DMapLinkInfo.byml
+!Mush.release.pack/Mush/Octa2DMapLineInfo.byml
 
 Param.pack
+
+SoundWorking/
 
 LevelNotes.txt
